@@ -2,6 +2,6 @@
 # Nimmi Prajith
 # Aarohi Prajith
 # Arush Prajith
-# Premarajan Parammal
-# Padmaja T
-# Premajran Parammal
+# Premarajan Parammal prajith 
+# Padmaja T Parammal 
+# Premajran Parammal Parammal
